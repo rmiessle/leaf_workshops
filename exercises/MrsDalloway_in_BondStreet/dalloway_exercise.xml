@@ -57,7 +57,7 @@
          <div>
             <pb n="20" facs="https://raw.githubusercontent.com/LEAF-VRE/leaf_workshops/main/exercises/MrsDalloway_in_BondStreet/dalloway_images/dalloway_01.jpg"/>
             <head><title>MRS DALLOWAY IN BOND STREET</title></head>
-            <byline>BY VIRGINIA WOOLF</byline>
+            <byline>BY <persName key="Virginia Woolf" ref="http://www.wikidata.org/entity/Q40909" role="aut" type="real">VIRGINIA WOOLF</persName></byline>
 
             <p><persName type="fictional">Mrs Dalloway</persName> said she would buy the <rs>gloves</rs> herself.</p>
             <p>Big Ben was striking as she stepped out into the street. It was <time>eleven o'clock</time> and
